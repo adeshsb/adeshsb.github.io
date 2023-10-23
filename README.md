@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Adesh!
 
-
 💼 Currently, I'm rocking the data science world as a Data Scientist at Subex ltd, where I'm leveraging cutting-edge technologies to extract valuable knowledge from data and shape the future.
 
 🧠 I'm deeply immersed in the world of data and machine learning systems, where I blend creativity and data-driven insights to solve real-world problems.
